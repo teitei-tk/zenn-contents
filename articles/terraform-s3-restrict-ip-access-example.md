@@ -3,7 +3,7 @@ title: "terraformでS3バケットへの特定のIPアドレスのアクセス�
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["terraform", "aws"]
-published: false
+published: true
 ---
 
 AWS のドキュメントにコードがあるのでそれを terraform に落とし込む
