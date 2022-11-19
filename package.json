@@ -1,0 +1,12 @@
+{
+  "name": "zenn-contents",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/teitei-tk/zenn-contents.git",
+  "author": "teitei-tk <teitei.tk@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "zenn-cli": "^0.1.132"
+  }
+}
